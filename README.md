@@ -2,6 +2,10 @@
 
 Sistema desenvolvido em Python para controle de qualidade e armazenamento de peças industriais.
 
+## Demonstração
+
+[![Assista ao vídeo](https://img.youtube.com/vi/TU9ph2q_Mqw/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU9ph2q_Mqw)
+
 ## Como rodar
 
 1. Certifique-se de ter o Python 3 instalado na sua máquina
